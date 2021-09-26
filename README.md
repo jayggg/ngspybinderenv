@@ -11,10 +11,14 @@ follow the experiences [detailed by
 others](https://discourse.jupyter.org/t/tip-speed-up-binder-launches-by-pulling-github-content-in-a-binder-link-with-nbgitpuller/922).
 
 
-Example links to launch content repos in this environment:
+The following content repos can be launched in this environment:
 
-- Content from Jay Gopalakrishnan, Portland State University [![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jayggg/ngspybinderenv.git/master?urlpath=git-pull?repo=https://github.com/jayggg/mth65123%26branch=master%26subpath=INDEX.ipynb)
+- Content from Jay Gopalakrishnan, Portland State University
+	
+	[![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jayggg/ngspybinderenv.git/master?urlpath=git-pull?repo=https://github.com/jayggg/mth65123%26branch=master%26subpath=INDEX.ipynb)
 
-- Content from Joachim Sch\"oberl, Technical University of Vienna [![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jayggg/ngspybinderenv.git/master?urlpath=git-pull?repo=https://github.com/JSchoeberl/iFEM%26branch=master%26subpath=iFEM.ipynb)
+- Content from Joachim Schöberl, Technical University of Vienna 
+	
+	[![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jayggg/ngspybinderenv.git/master?urlpath=git-pull?repo=https://github.com/JSchoeberl/iFEM%26branch=master%26subpath=iFEM.ipynb)
 
 
