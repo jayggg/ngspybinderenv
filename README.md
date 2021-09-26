@@ -8,5 +8,5 @@ environment, we follow the experiences [detailed by others](https://discourse.ju
 
 Launch content repos on binder:
 
-- [![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jayggg/mth65123binderenv.git/master?urlpath=git-pull?repo=https://github.com/jayggg/mth65123.git%26amp%3BsubPath=INDEX.ipynb)
+- MTH 651-2-3, Portland State University [![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jayggg/ngspybinderenv.git/master?urlpath=git-pull?repo=https://github.com/jayggg/mth65123.git%26amp%3BsubPath=INDEX.ipynb)
 
