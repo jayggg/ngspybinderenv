@@ -1,8 +1,10 @@
 name: ngsolve-environment
 channels:
   - conda-forge
+  - pythonocc
   - ngsolve
 dependencies:
+  - netgen
   - ngsolve-nogui
   - numpy
   - matplotlib
